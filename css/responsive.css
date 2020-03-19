@@ -1,3 +1,4 @@
+
 /* only small desktops */
 /* tablets */
 /* only small tablets */
@@ -76,7 +77,7 @@
 /* mobile or only mobile */
  @media (max-width: 767px) {
      nav.navbar.bootsnav .navbar-header{
-         width: 80%;
+        
     }
      .navbar-light .navbar-toggler{
          border-color: #d33b33;
@@ -85,8 +86,8 @@
          margin-right: 7px;
          padding-top: 6px;
          padding-top: 6px;
-         float: left;
-         margin-top: 20px;
+         float: right;
+         margin-top: 10px;
     }
      nav.navbar.bootsnav ul.nav > li > a{
          padding: 5px 15px;
